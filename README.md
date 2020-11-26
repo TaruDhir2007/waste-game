@@ -1,1 +1,2 @@
-# waste-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
